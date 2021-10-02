@@ -9,7 +9,7 @@ echo -e "    ____  / /_  / /_  ________  _________  ____  "
 echo -e "   / __ \/ __ \/ __ \/ ___/ _ \/ ___/ __ \/ __ \ "
 echo -e "  / /_/ / /_/ / / / / /  /  __/ /__/ /_/ / / / / "
 echo -e " / .___/_.___/_/ /_/_/   \___/\___/\____/_/ /_/  "
-echo -e "/_/     simple automated recon - v0.1			  "
+echo -e "/_/     simple automated recon - v0.1		  "
 echo -e "\e[0m\n"
 }
 
